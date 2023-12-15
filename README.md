@@ -16,3 +16,4 @@ send_email fonksiyonu, üretilen OKR sonuçlarını kullanıcıya ve yöneticisi
 ![43215697-82b9-4a8f-bde4-f62b195b465f](https://github.com/aksoysoftware/okrs/assets/99371051/40fe05bd-ba43-49ec-b151-69523cf589e5)
 ![290904565-5b8ffe11-3da2-467e-8340-43d0585d2b1f](https://github.com/aksoysoftware/okrs/assets/99371051/1ebb1545-3305-4478-b82e-093051ae89ca)
 
+![290904565-5b8ffe11-3da2-467e-8340-43d0585d2b1f](https://github.com/aksoysoftware/okrs/assets/99371051/78c0ea33-50f9-4db1-a74e-a0423c43945f)

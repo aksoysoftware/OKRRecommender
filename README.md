@@ -4,7 +4,7 @@ Veritabanı Kurulumu:
 Uygulama, geçmiş OKR verilerini saklamak için SQLite veritabanını kullanır. historicalOkr tablosu, CV ID, ad, talep tarihi, geçmiş, OKR, kullanıcı e-postası ve yönetici e-postası gibi bilgileri depolamak için oluşturulmuştur.
 
 OpenAI Entegrasyonu:
-Uygulama, OKR önerileri üretmek için OpenAI GPT-3.5-turbo modelini kullanır. Kullanıcının girişi, önceden belirlenmiş İK ile ilgili önerilerle birleştirilir ve OKR önerilerini almak için OpenAI API ile etkileşime geçilir.
+Uygulama openAI api kullanır,  Kullanıcının girişi, önceden belirlenmiş İK ile ilgili önerilerle birleştirilir ve OKR önerilerini almak için OpenAI API ile etkileşime geçilir.
 
 E-posta Fonksiyonelliği:
 send_email fonksiyonu, üretilen OKR sonuçlarını kullanıcıya ve yöneticisine içeren e-postaları göndermekle sorumludur. E-postalar, üretilen OKR içeriğini ve geçmiş OKR değerlerini içerir.

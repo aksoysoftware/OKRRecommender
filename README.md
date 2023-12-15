@@ -14,4 +14,5 @@ send_email fonksiyonu, üretilen OKR sonuçlarını kullanıcıya ve yöneticisi
 
 ![WhatsApp Image 2023-08-15 at 19 46 14](https://github.com/aksoysoftware/okrs/assets/99371051/d99f2b26-d3f7-4684-9a2e-47c9bfdc9a1c)
 ![43215697-82b9-4a8f-bde4-f62b195b465f](https://github.com/aksoysoftware/okrs/assets/99371051/40fe05bd-ba43-49ec-b151-69523cf589e5)
-![42c4c598-1333-438f-afd2-dce2ad6afbe2](https://github.com/aksoysoftware/okrs/assets/99371051/5b8ffe11-3da2-467e-8340-43d0585d2b1f)
+![290904565-5b8ffe11-3da2-467e-8340-43d0585d2b1f](https://github.com/aksoysoftware/okrs/assets/99371051/1ebb1545-3305-4478-b82e-093051ae89ca)
+
